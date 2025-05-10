@@ -49,5 +49,4 @@ The dataset includes health-related features such as:
 ## Live Demo
 
 You can try the live app here:
-**[Heart Disease Prediction on Hugging Face Spaces](https://huggingface.co/spaces/Husnain572/Heart-Disease-Prediction)
-**
+**[Heart Disease Prediction on Hugging Face Spaces](https://huggingface.co/spaces/Husnain572/Heart-Disease-Prediction)**
